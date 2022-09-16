@@ -78,7 +78,6 @@ if(age < 18 || age > 55){
     userForm.reset()
    
 }
- 
-}
+ }
 userForm.addEventListener('submit',saveUserForm)
 displayEntries()
